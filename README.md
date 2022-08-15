@@ -15,6 +15,8 @@ I'm a biologist (specialized in biomedicine) who has always been very passionate
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
 
+<!---
+
 ## Current projects
 
-- Uploading the analyses performed in: https://doi.org/10.1016/j.humimm.2022.06.002
+--->
