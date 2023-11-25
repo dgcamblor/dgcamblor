@@ -1,39 +1,49 @@
 <h1 align="center">👋 Hi, I’m @dgcamblor!</h1>
 
-I'm a biologist (specialized in biomedicine) who has always been very passionate about technology and computer science! I aspire to become a bioinformatician, aiming to work in a biomedical setting.
+I'm a bioinformatician and predoctoral researcher at the INCLIVA Biomedical Research Institute, Valencia.
 
 ## About me
 
 - 🧬 BSc in Biology (University of Oviedo)
 - 🏥 MSc in Biomedicine and Molecular Oncology (University of Oviedo)
-- 🧮 University Expert (specialist) in Applied Statistics for Health Sciences (National University of Distance Education)
-- 💻 I'm currently finishing my MSc in Bioinformatics (University of Valencia)
+- 🧮 University Expert in Applied Statistics for Health Sciences (National University of Distance Education)
+- 💻 MSc in Bioinformatics (University of Valencia)
+- 🏥 Currently pursuing a PhD in Medicine (University of Valencia) 
 
-## Languages
+## My programming/markup languages
 
-![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Nextflow-0dc09d" height="25"/>
+</p>
 
-## Technologies
+<p>
+  <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" height="25"/>
+</p>
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)
+## My technologies and tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Singularity-1d315f" height="25"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white" height="25"/>
+</p>
 
 ## GitHub Stats
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgcamblor&custom_title=dgcamblor's%20GitHub%20Stats&show_icons=true&line_height=40&theme=transparent&title_color=C41E3A&text_color=000000&icon_color=DE3163" alt="dgcamblor's GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgcamblor&theme=transparent&title_color=C41E3A&text_color=000000" alt="Top Langs"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgcamblor&custom_title=dgcamblor's%20GitHub%20Stats&show_icons=true&line_height=40&title_color=C41E3A&text_color=000000&icon_color=DE3163" alt="dgcamblor's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgcamblor&title_color=C41E3A&text_color=000000" alt="Top Langs"/>
 </div>
   
-<!---
-
-## Current projects
-
---->
